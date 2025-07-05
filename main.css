@@ -160,7 +160,9 @@ header img{
     }
     body{
         background: rgb(238,174,202);
-background: radial-gradient(circle, rgb(156, 61, 82) 0%, rgb(232, 231, 208) 100%);
+        background: radial-gradient(circle,
+         rgb(54, 255, 141) 0%,
+         rgb(64, 63, 63) 100%);
     }
 
 }
